@@ -1,0 +1,13 @@
+/Users/nhan.dang/C-Sharp/Projects/TerminalApp_Recipes/TerminalApp_Recipes/obj/Debug/netcoreapp3.1/TerminalApp_Recipes.csprojAssemblyReference.cache
+/Users/nhan.dang/C-Sharp/Projects/TerminalApp_Recipes/TerminalApp_Recipes/obj/Debug/netcoreapp3.1/TerminalApp_Recipes.AssemblyInfoInputs.cache
+/Users/nhan.dang/C-Sharp/Projects/TerminalApp_Recipes/TerminalApp_Recipes/obj/Debug/netcoreapp3.1/TerminalApp_Recipes.AssemblyInfo.cs
+/Users/nhan.dang/C-Sharp/Projects/TerminalApp_Recipes/TerminalApp_Recipes/bin/Debug/netcoreapp3.1/TerminalApp_Recipes
+/Users/nhan.dang/C-Sharp/Projects/TerminalApp_Recipes/TerminalApp_Recipes/bin/Debug/netcoreapp3.1/TerminalApp_Recipes.deps.json
+/Users/nhan.dang/C-Sharp/Projects/TerminalApp_Recipes/TerminalApp_Recipes/bin/Debug/netcoreapp3.1/TerminalApp_Recipes.runtimeconfig.json
+/Users/nhan.dang/C-Sharp/Projects/TerminalApp_Recipes/TerminalApp_Recipes/bin/Debug/netcoreapp3.1/TerminalApp_Recipes.runtimeconfig.dev.json
+/Users/nhan.dang/C-Sharp/Projects/TerminalApp_Recipes/TerminalApp_Recipes/bin/Debug/netcoreapp3.1/TerminalApp_Recipes.dll
+/Users/nhan.dang/C-Sharp/Projects/TerminalApp_Recipes/TerminalApp_Recipes/bin/Debug/netcoreapp3.1/TerminalApp_Recipes.pdb
+/Users/nhan.dang/C-Sharp/Projects/TerminalApp_Recipes/TerminalApp_Recipes/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/nhan.dang/C-Sharp/Projects/TerminalApp_Recipes/TerminalApp_Recipes/obj/Debug/netcoreapp3.1/TerminalApp_Recipes.csproj.CopyComplete
+/Users/nhan.dang/C-Sharp/Projects/TerminalApp_Recipes/TerminalApp_Recipes/obj/Debug/netcoreapp3.1/TerminalApp_Recipes.dll
+/Users/nhan.dang/C-Sharp/Projects/TerminalApp_Recipes/TerminalApp_Recipes/obj/Debug/netcoreapp3.1/TerminalApp_Recipes.pdb

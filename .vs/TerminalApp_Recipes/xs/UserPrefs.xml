@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{0E914BC0-FBF8-4E54-8209-1B0B8D912003}|Default">
+  <MonoDevelop.Ide.ItemProperties.TerminalApp__Recipes PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TerminalApp_Recipes/DisplayRecipes.cs">
+    <Files>
+      <File FileName="TerminalApp_Recipes/Program.cs" Line="9" Column="50" />
+      <File FileName="TerminalApp_Recipes/HttpRequest.cs" Line="39" Column="56" />
+      <File FileName="TerminalApp_Recipes/Recipe.cs" Line="46" Column="29" />
+      <File FileName="TerminalApp_Recipes/keys.cs" Line="8" Column="23" />
+      <File FileName="TerminalApp_Recipes/.gitignore" Line="1" Column="8" />
+      <File FileName="TerminalApp_Recipes/RecipesSearch.cs" Line="27" Column="14" />
+      <File FileName="TerminalApp_Recipes/DisplayRecipes.cs" Line="6" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TerminalApp_Recipes" expanded="True">
+            <Node name="TerminalApp_Recipes" expanded="True">
+              <Node name="DisplayRecipes.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nhan.dang/C-Sharp/Projects/TerminalApp_Recipes/TerminalApp_Recipes/TerminalApp_Recipes.csproj": {}
+  },
+  "projects": {
+    "/Users/nhan.dang/C-Sharp/Projects/TerminalApp_Recipes/TerminalApp_Recipes/TerminalApp_Recipes.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nhan.dang/C-Sharp/Projects/TerminalApp_Recipes/TerminalApp_Recipes/TerminalApp_Recipes.csproj",
+        "projectName": "TerminalApp_Recipes",
+        "projectPath": "/Users/nhan.dang/C-Sharp/Projects/TerminalApp_Recipes/TerminalApp_Recipes/TerminalApp_Recipes.csproj",
+        "packagesPath": "/Users/nhan.dang/.nuget/packages/",
+        "outputPath": "/Users/nhan.dang/C-Sharp/Projects/TerminalApp_Recipes/TerminalApp_Recipes/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nhan.dang/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
